@@ -1,4 +1,4 @@
-# ASU CEN 598: Embedded Machine Learning (TinyML) Projects
+# Embedded Machine Learning (TinyML) Projects
 
 This repository contains a series of projects developed for the **Embedded Machine Learning** course at Arizona State University. The projects demonstrate the implementation of machine learning workflows on resource-constrained hardware.
 
