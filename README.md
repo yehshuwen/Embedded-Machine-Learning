@@ -17,9 +17,11 @@ This project investigates image classification using CNN-based models on the Foo
 
 ### Real-Time Keyword Spotting (KWS)
 The objective is to design an end-to-end audio classification system capable of recognizing specific keywords ("Never", "None", "All", "Must", "Only"). The workflow includes custom data collection, audio feature extraction into spectrograms, and deploying an INT8-quantized model for real-time inference with LED feedback.
+[![Watch the video](https://img.youtube.com/vi/VvHEkLDZ0iU/hqdefault.jpg)](https://youtube.com/shorts/urbUhE6IHbI)
 
 ### Sensor-Agnostic Posture Detection
 This project focuses on building a posture detection system that can predict static positions regardless of the specific sensor used. By utilizing a 1D CNN and a per-sensor normalization strategy, the system can classify postures using data from either an accelerometer, gyroscope, or magnetometer.
+[![Watch the video](https://img.youtube.com/vi/VvHEkLDZ0iU/hqdefault.jpg)](https://youtube.com/shorts/VvHEkLDZ0iU)
 
 ### Multi-Class Posture Tracking & Analysis
 An extension of lying posture tracking that incorporates hyperparameter tuning and model optimization. This project involves a comparative
